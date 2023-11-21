@@ -1,0 +1,5 @@
+id,name,Species
+1,Bengt,Lion
+2,Sven-Uggla,Owl
+3,Stig,Pig
+4,Jonas,Hamster
