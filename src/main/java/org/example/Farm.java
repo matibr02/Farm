@@ -5,6 +5,7 @@ public class Farm {
     AnimalHandler AnimalHandler = new AnimalHandler();
 
     public void MainMenu() {
+        CropHandler.AnimalHandler = AnimalHandler;
         Scanner scanner = new Scanner(System.in);
         while (true) {
             System.out.println("What would you like to do?");
