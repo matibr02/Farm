@@ -1,4 +1,3 @@
 # My Farm Program
-This is my farm project for school  
-made by me!  
+This is my first program on github!! 
 # Farm
